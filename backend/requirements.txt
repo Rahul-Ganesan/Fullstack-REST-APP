@@ -1,0 +1,10 @@
+# This repository is a Node.js/TypeScript backend, not a Python package.
+# There are no Python dependencies to install with pip/uv.
+#
+# Use npm instead:
+#   npm install
+#
+# Main system requirements:
+#   Node.js >= 20
+#   npm >= 10
+#   MySQL >= 8
